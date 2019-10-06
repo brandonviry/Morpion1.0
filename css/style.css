@@ -1,0 +1,54 @@
+td
+{
+	width: 150px;
+	height: 150px;
+
+
+}
+
+.playeur1
+{
+	background-color: red;
+}
+
+.playeur2
+{
+	background-color: green;
+}
+
+div > p
+{
+	padding: 1em;
+	color: white;
+	font-size: 20px;
+	margin: 0px;
+
+}
+div
+{
+	margin-bottom:  1em;
+}
+body > p
+{
+		padding: 1em;
+		background-color: black;
+		color: white;
+	font-size: 20px;
+	margin-top: 1em;
+	text-align: center;
+}
+button
+{
+	margin-top:  0.5em;
+	width: 100%;
+	height:  30px;
+	font-size: 1em;
+	background-color: black;
+	color: white;
+}
+body
+{ background-image:url(https://images-na.ssl-images-amazon.com/images/I/51j5U3zwJdL._SS500_.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-position: center;
+ }
